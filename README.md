@@ -4,16 +4,7 @@ fork from hexo-theme-xoxo [Demo](https://blog.0xff000000.com)
 
 
 
-Snapshots: 
-
-![](http://7xr586.com1.z0.glb.clouddn.com/images/fbehv.png)
-
-![](http://7xr586.com1.z0.glb.clouddn.com/images/kwyq1.png)
-
-![](http://7xr586.com1.z0.glb.clouddn.com/images/og6jh.png)
-
-...
-
+>>> 
 ## 特点
 
 - 简约
