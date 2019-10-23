@@ -1,8 +1,8 @@
-# hexo-theme-xoxo
+# hexo-theme-simplex
 
-Hexo theme inspired by [microb](https://github.com/microacup/hexo-theme-micorb) 
+fork from hexo-theme-xoxo [Demo](https://blog.0xff000000.com)
 
-[Demo](https://blog.0xff000000.com)
+
 
 Snapshots: 
 
