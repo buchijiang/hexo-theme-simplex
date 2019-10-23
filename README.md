@@ -1,10 +1,10 @@
 # hexo-theme-simplex
 
 fork from hexo-theme-xoxo [Demo](https://blog.0xff000000.com)
+真的是非常简洁，感谢原作者设计出了这么符合我审美的主题
 
 
-
->>> 
+---
 ## 特点
 
 - 简约
